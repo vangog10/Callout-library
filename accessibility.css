@@ -1,0 +1,64 @@
+@import url('~lucide-static/font/Lucide.css');
+
+.callout[data-callout="accessibility"] {
+    --callout-color: #E0E0E0;
+    --callout-icon: accessibility;
+}
+
+.callout[data-callout="baby"] {
+    --callout-color: #ffc0cb;
+    --callout-icon: baby;
+}
+
+.callout[data-callout="badge-help"] {
+    --callout-color: #0084ff;
+    --callout-icon: badge-help;
+}
+
+.callout[data-callout="badge-info"] {
+    --callout-color: #0084ff;
+    --callout-icon: badge-info;
+}
+
+.callout[data-callout="circle-help"] {
+    --callout-color: #0084ff;
+    --callout-icon: circle-help;
+}
+
+.callout[data-callout="contrast"] {
+    --callout-color: #ffffff;
+    --callout-icon: contrast;
+}
+
+.callout[data-callout="ear-off"] {
+    --callout-color: #f4d5bb;
+    --callout-icon: ear-off;
+}
+
+.callout[data-callout="ear"] {
+    --callout-color: #f4d5bb;
+    --callout-icon: ear;
+}
+
+.callout[data-callout="eclipse"] {
+    --callout-color: #8b00ff;
+    --callout-icon: eclipse;
+}
+
+.callout[data-callout="eye-closed"] {
+    --callout-color: #008000;
+    --callout-icon: eye-closed;
+}
+
+.callout[data-callout="eye-off"] {
+    --callout-color: #008000;
+    --callout-icon: eye-off;
+}
+
+.callout[data-callout="eye"] {
+    --callout-color: #008000;
+}
+
+
+
+

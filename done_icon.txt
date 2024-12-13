@@ -1,3 +1,12 @@
 accessibility
 baby
 badge-help
+badge-info
+circle-help
+contrast
+ear-off
+ear
+eclipse
+eye-closed
+eye-off
+eye
