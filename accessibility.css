@@ -57,8 +57,50 @@
 
 .callout[data-callout="eye"] {
     --callout-color: #008000;
+    --callout-icon: eye;
 }
 
+.callout[data-callout="glasses"] {
+    --callout-color: #c0c0c0;
+    --callout-icon: glasses;
+}
 
+.callout[data-callout="hand"] {
+    --callout-color: #f4d5bb;
+    --callout-icon: hand;
+}
 
+.callout[data-callout="life-buoy"] {
+    --callout-color: #ff6800;
+    --callout-icon: life-buoy;
+}
 
+.callout[data-callout="moon-star"] {
+    --callout-color: #0047ab;
+    --callout-icon: moon-star;
+}
+
+.callout[data-callout="moon"] {
+    --callout-color: #0047ab;
+    --callout-icon: moon;
+}
+
+.callout[data-callout="person-standing"] {
+    --callout-color: #5ca904;
+    --callout-icon: person-standing;
+}
+
+.callout[data-callout="scan-eye"] {
+    --callout-color: #bbbbbb;
+    --callout-icon: scan-eye;
+}
+
+.callout[data-callout="scan-search"] {
+    --callout-color: #bbbbbb;
+    --callout-icon: scan-search;
+}
+
+.callout[data-callout="speech"] {
+    --callout-color: #bbbbbb;
+    --callout-icon: speech;
+}

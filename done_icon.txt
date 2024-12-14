@@ -10,3 +10,11 @@ eclipse
 eye-closed
 eye-off
 eye
+glasses
+life-buoy
+moon-star
+moon
+person-standing
+scan-eye
+scan-search
+speech
