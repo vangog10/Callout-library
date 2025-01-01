@@ -3,7 +3,7 @@
 if you do not have enough obsidian's callouts this CSS snippet can help you. This snippets adds **more than 1,9К** variants of callout.
 
 The snippet has callouts with icons on the following topics:
-- Accessibility  (soon)
+- Accessibility  (29)
 - Accounts & access (soon)
 - Animals (soon)
 - Arrows (soon)

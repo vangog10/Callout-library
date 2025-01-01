@@ -1,5 +1,7 @@
 @import url('~lucide-static/font/Lucide.css');
 
+/* accessibility */
+
 .callout[data-callout="accessibility"] {
     --callout-color: #E0E0E0;
     --callout-icon: accessibility;
