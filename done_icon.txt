@@ -18,3 +18,12 @@ person-standing
 scan-eye
 scan-search
 speech
+sun-dim
+sun-medium
+sun-moon
+sun
+zoom-in
+zoom-out
+glasses-square
+life-jacket
+yin-yang

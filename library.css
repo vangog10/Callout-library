@@ -104,3 +104,48 @@
     --callout-color: #bbbbbb;
     --callout-icon: speech;
 }
+
+.callout[data-callout="sun-dim"] {
+    --callout-color: #DAA520;
+    --callout-icon: sun-dim;
+}
+
+.callout[data-callout="sun-medium"] {
+    --callout-color: #ffff00;
+    --callout-icon: sun-medium;
+}
+
+.callout[data-callout="sun-moon"] {
+    --callout-color: #c0c0c0;
+    --callout-icon: sun-moon;
+}
+
+.callout[data-callout="sun"] {
+    --callout-color: #ffffa7;
+    --callout-icon: sun;
+}
+
+.callout[data-callout="zoom-in"] {
+    --callout-color: #28A745;
+    --callout-icon: zoom-in;
+}
+
+.callout[data-callout="zoom-out"] {
+    --callout-collor: #808080;
+    --callout-icon: zoom-out;
+}
+
+.callout[data-callout="glasses-square"] {
+    --callout-collor: #8B4513;
+    --callout-icon: glasses-square;
+}
+
+.callout[data-callout="life-jacket"] {
+    --callout-collor: #FFA500;
+    --callout-icon: life-jacket;
+}
+
+.callout[data-callout="yin-yang"] {
+    --callout-collor: #DE2910;
+    --callout-icon: yin-yang;
+}
